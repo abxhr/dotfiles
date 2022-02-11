@@ -1,0 +1,70 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "C_Cpp.autoAddFileAssociations": false,
+    "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.pythonPath": "C:\\Users\\abxhr\\.virtualenvs\\abxhr-9X2fpZyT\\Scripts\\python.exe",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "mssql.connections": [
+        {
+            "server": "{{put-server-name-here}}",
+            "database": "{{put-database-name-here}}",
+            "user": "{{put-username-here}}",
+            "password": ""
+        }
+    ],
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "cSpell.enableFiletypes": [
+        "!markdown"
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\Lenovo\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe",
+    "terminal.integrated.defaultProfile.windows": "Ubuntu-20.04 (WSL)",
+    "editor.fontFamily": "CaskaydiaCove NF, FuraMono Nerd Font, Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontFamily": "FuraMono Nerd Font",
+    "dart.flutterSdkPath": "C:\\flutter",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.flutterHotRestartOnSave": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.fontSize": 11,
+    "workbench.sideBar.location": "right",
+    "terminal.integrated.fontSize": 12,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": false
+    },
+    "git.autofetch": true,
+    "codesnap.showWindowControls": false,
+    "bracketPairColorizer.depreciation-notice": false,
+    "cSpell.userWords": [
+        "ipynb",
+        "mkdocs"
+    ],
+    "terminal.integrated.defaultLocation": "editor"
+}
